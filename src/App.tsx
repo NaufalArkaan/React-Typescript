@@ -1,10 +1,10 @@
 import './App.css'
-import UserProfile from './materi/state/UserProfile'
+import FormComponent from './materi/state/FormComponent'
 
 function App() {
   return (
     <>
-      <UserProfile />
+      <FormComponent />
     </>
   )
 };
