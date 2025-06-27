@@ -1,10 +1,10 @@
 import './App.css'
-import FormSubmit from './materi/event-handler/FormSubmit'
+import UserProfile from './materi/state/UserProfile'
 
 function App() {
   return (
     <>
-    <FormSubmit/>
+      <UserProfile />
     </>
   )
 };
