@@ -1,10 +1,10 @@
 import './App.css'
-import FormComponent from './materi/state/FormComponent'
+import LogicalOperator from './materi/conditional-rendering/LogicalOperator'
 
 function App() {
   return (
     <>
-      <FormComponent />
+      <LogicalOperator isLoggedIn={true}/>
     </>
   )
 };
